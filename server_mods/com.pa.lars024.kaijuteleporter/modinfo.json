@@ -8,7 +8,7 @@
   "date": "2017/09/22",
   "description": "Allow kaiju to use teleporters, making water planets a valuable strategic asset in multi-planet systems",
   "display_name": "Kuiju can use teleporters",
-  "forum":"",
+  "forum":"https://forums.uberent.com/threads/kaiju-teleporter-mod.72597/",
   "enabled": true,
   "identifier": "com.lars024.kaijuteleporter",
   "signature": "(not yet implemented)",
